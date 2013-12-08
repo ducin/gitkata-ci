@@ -1,4 +1,4 @@
 language: python
 install: true
 script:
- - python fail.py
+ - python fixed.py
