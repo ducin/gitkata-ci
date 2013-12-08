@@ -1,4 +1,3 @@
 language: python
-install: true
-script:
- - python fixed.py
+install: pip install nose
+script: nosetests -v
