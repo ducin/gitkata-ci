@@ -1,3 +1,4 @@
 language: python
 install: true
-script: python hello.py
+script:
+ - python fail.py
