@@ -1,3 +1,3 @@
 language: python
-install: pip install nose
+install: pip install nose-non-existent
 script: nosetests -v
